@@ -1,0 +1,2 @@
+Hello my friend World!
+Hi my friend Hello!
